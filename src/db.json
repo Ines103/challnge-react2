@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "firstName": "ines",
+      "lastName": "bellaaj",
+      "email": "inesbelaaj@gmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "features": []
+}
